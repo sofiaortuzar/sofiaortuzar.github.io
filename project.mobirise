@@ -140,7 +140,7 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "2",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/robot-2000x1500.jpg",
             "bgColor": "#fff",
