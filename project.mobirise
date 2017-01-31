@@ -23,7 +23,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 45,
     "versionPublish": "3.10.8",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///C:/Users/Sofia/Desktop/Portfolio%20Sofia%20Ortuzar",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -182,7 +182,7 @@
             }
           },
           "title": "A little bit about me...<br>Sofia Ortuzar",
-          "text": "I am Sofia Ortuzar and i am 13 years old. The scool I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with along with competing in Martial Arts tournaments.",
+          "text": "I am Sofia Ortuzar and I am 13 years old. The scool I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with competing in Martial Arts tournaments.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#content6-18\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -264,7 +264,7 @@
           },
           "title1": "<br><span style=\"font-size: 1.25rem; letter-spacing: -1px; line-height: 1.2825;\">Robotical Engineer</span><br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Robots and their inteligance has always interested me, since I was in third grade.",
+          "caption1": "Robots and their intelligence has always interested me, since I was in third grade.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -278,9 +278,9 @@
               "color": "#fac51c"
             }
           },
-          "title2": "Proffesional Martial Artist",
+          "title2": "Professional Martial Artist",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being a proffesional Martial Artist competitor has been a goal of mine for the past 2 years.<br>",
+          "caption2": "Being a professional Martial Artist competitor has been a goal of mine for the past 2 years.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -312,7 +312,7 @@
           },
           "title4": "Police Dog Trainer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always had a love for animals and this &nbsp;job will pursuit my love for them and helping them even more.",
+          "caption4": "I have always had a love for animals and this job will pursue my love for them and helping them even more.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -354,8 +354,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>When I was 10, after watching a video in science class on artificial intelligiance, I grew a random interest in wanting to know more, how do they work, how can technolgy relly on itself so much, how can I make my own versions at home. Ever since then my interest has only grown stronger and stronger knowing that one day my name will be on one of those robots, created, programmed, and designed just the way I want it. Then theres my love for animals. I Have loved animals all my life, dogs, hamsters, chinchillas, rabbits, even parrots and if i coould I would</p>",
-          "text2": "make animals my everyday job and I would be as happy as can be. I also have a strong passion for Martial Arts. The style of Martial Arts i do is Tae-Kwon-Do, in my opinion it is not only fun, but it trains me in every way, wether its my hand-eye coordination or even my strategies in a test at school &nbsp;and how to behave and act. My tournaments is what I always look forward to the most, I would usually compete in sparing(fighting), and forms, but eventually i would like to compete in XMA weapons division. This is also a path I wouldn't at all mind doing everyday and living just off that and nothuing else."
+          "text1": "<p>When I was 10, after watching a video in science class on artificial intelligence, I grew a random interest in wanting to know more, how do they work, how can technology rely on itself so much, how can I make my own versions at home. Ever since then my interest has only grown stronger and stronger knowing that one day my name will be on one of those robots, created, programmed, and designed just the way I want it. Then there's my love for animals. I Have loved animals all my life, dogs, hamsters, chinchillas, rabbits, even parrots and if i could I would</p>",
+          "text2": "make animals my everyday job and I would be as happy as can be. I also have a strong passion for Martial Arts. The style of Martial Arts I do is Tae-Kwon-Do, in my opinion it is not only fun, but it trains me in every way, whether it's my hand-eye coordination or even my strategies in a test at school &nbsp;and how to behave and act. My tournaments is what I always look forward to the most, I would usually compete in sparing (fighting), and forms, but eventually I would like to compete in XMA weapons division. This is also a path I wouldn't at all mind doing everyday and living just off that and nothing else."
         },
         {
           "_tags": [
@@ -391,8 +391,8 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>\n15015 SW 24th St<br>\nMIami, FL 33185",
-          "text2": "<strong>Contacts</strong><br>\nEmail: Sortuzar@miamiartsstudio.com<br>Phone: 305-485-2323<br><br>",
+          "text1": "<strong>Address</strong><br>15015 SW 24th St<br>\nMIami, FL 33185",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Sortuzar@miamiartsstudio.com<br>\nPhone: (305) 485-2323<br>",
           "text3": "<strong>Links</strong><br>Sofiaortuzar.github.io<br><br><br>"
         }
       ]
