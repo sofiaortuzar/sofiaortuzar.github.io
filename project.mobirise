@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 53,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -181,7 +181,7 @@
               "size": 250
             }
           },
-          "title": "A little bit about me...<br>Sofia Ortuzar",
+          "title": "A little bit about me...<br>",
           "text": "I am Sofia Ortuzar and I am 13 years old. The school I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with competing in Martial Arts tournaments.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#content6-18\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
