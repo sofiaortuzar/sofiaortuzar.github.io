@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 55,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -125,10 +125,53 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box6-5\">Itroduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-13\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PowerPoint.html\">Powerpoint</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"MIcrosoft Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sofiaortuzar.github.io/Documents/Discuss IT Topic 6 .pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premire.html\" aria-expanded=\"false\">Adobe Premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustartor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Photoshop.html\">Industry Certified PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Illustrator.html\">Industry Certified Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Audition.html\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Premire.html\">Industry Certified Adobe Premire</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\"></span>References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP Teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend.html\">Family friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Memeber.html\">Community Memeber</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"conatct.html\">Contact</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Sofia Ortuzar",
+          "text": "This is all of my stuff...<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#gallery1-1i\" data-toolbar=\"-mbrBtnMove\">Some of...My Stuff</a> ",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -137,7 +180,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-5",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "43",
             "paddingTop": "4",
             "paddingBottom": "7",
             "parallax": true,
@@ -163,7 +206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image-1400x1064.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stuff-1400x1088.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -183,7 +226,7 @@
           },
           "title": "A little bit about me...<br>",
           "text": "I am Sofia Ortuzar and I am 13 years old. The school I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with competing in Martial Arts tournaments.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#content6-18\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#content6-18\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -361,6 +404,73 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-reocrd-label-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-reocrd-label-1-2000x2000.jpg",
+                "caption": "Record Labe",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x2000.jpg",
+                "caption": "Record Composite",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-king-kong-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-king-kong-2000x2000.jpg",
+                "caption": "King Kong Movie Poster",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
+                "caption": "MDCPS Logo",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#28324e",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1i",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_anchor": "contacts1-6",
           "_params": {
@@ -457,7 +567,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-7",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -474,10 +584,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -505,17 +617,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brochure-back-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brochure-back-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Record Label Composite",
                 "active": false
               },
               {
@@ -525,7 +627,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/brochure-sofia-ortuzar-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/brochure-sofia-ortuzar-1-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Trifold Brochure Front",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brochure-back-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brochure-back-2000x2000.jpg",
+                "caption": "Trifold Brochure Back",
                 "active": false
               },
               {
@@ -535,7 +647,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/face-sofia-ortuzar-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/face-sofia-ortuzar-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Faces Thetre Poster",
                 "active": false
               },
               {
@@ -545,17 +657,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lyrics-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lyrics-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Albim Cover Back",
                 "active": false
               },
               {
@@ -565,7 +667,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/queen-album-cover-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/queen-album-cover-1-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Album Cover Front",
                 "active": false
               },
               {
@@ -575,7 +677,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-king-kong-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-king-kong-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "King Kong Movie Photo",
                 "active": false
               },
               {
@@ -585,12 +687,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-reocrd-label-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-reocrd-label-1-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Record Label",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
+                "caption": "MDCPS Logo",
+                "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#f7da64",
             "filterBgColor": true,
@@ -599,7 +711,12 @@
           },
           "_anchor": "gallery3-19",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -663,7 +780,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-9",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -680,10 +797,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -852,7 +971,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -869,10 +988,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1041,7 +1162,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-d",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1058,10 +1179,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1230,7 +1353,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-f",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1247,10 +1370,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1419,7 +1544,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-h",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1436,10 +1561,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1512,7 +1639,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-j",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1529,10 +1656,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1605,7 +1734,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-l",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1622,10 +1751,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1698,7 +1829,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-n",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1715,10 +1846,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1791,7 +1924,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-t",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1808,10 +1941,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1884,7 +2019,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-v",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1901,10 +2036,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1977,7 +2114,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-r",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -1994,10 +2131,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2070,7 +2209,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-x",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -2087,10 +2226,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2163,7 +2304,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-z",
+          "_anchor": "ext_menu-0",
           "_params": {
             "bgColor": "#28324e",
             "fontSize": 0.75,
@@ -2180,10 +2321,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signiture-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
