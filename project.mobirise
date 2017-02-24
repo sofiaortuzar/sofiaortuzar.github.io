@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -50,13 +50,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#fac51c"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -68,16 +68,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -93,10 +93,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -132,10 +132,10 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#999999"
             },
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1h",
@@ -174,12 +174,14 @@
             "H3": {
               "text-align": "center",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000"
             },
             "H1": {
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#000000"
             }
           },
           "_anchor": "content2-11",
@@ -292,6 +294,33 @@
           },
           "title": "BACKGROUND VIDEO",
           "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCV8rdBX1EzYXpufgyxFlkw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -427,10 +456,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -743,10 +772,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -984,10 +1013,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1225,10 +1254,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1466,10 +1495,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1707,10 +1736,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1852,10 +1881,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1997,10 +2026,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2142,10 +2171,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2287,10 +2316,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2432,10 +2461,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2577,10 +2606,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2722,10 +2751,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2867,10 +2896,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -3012,10 +3041,10 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1l",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#fac51c",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
