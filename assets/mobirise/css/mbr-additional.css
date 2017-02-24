@@ -497,6 +497,11 @@ h6,
 #gallery1-1i .mbr-gallery-item > div > span {
   text-align: center;
 }
+#content8-1x .mbr-section-title,
+#content8-1x p {
+  text-align: right;
+  color: #fff;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
