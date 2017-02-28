@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 78,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -3089,48 +3089,44 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html\">Itroduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html#features7-1q\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html#contacts4-1m\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PowerPoint.html\">Powerpoint</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"MIcrosoft Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sofiaortuzar.github.io/Documents/Discuss IT Topic 6 .pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premire.html\" aria-expanded=\"false\">Adobe Premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustartor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Photoshop.html\">Industry Certified PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Illustrator.html\">Industry Certified Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Audition.html\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Premire.html\">Industry Certified Adobe Premire</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP Teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend.html\">Family friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Memeber.html\">Community Memeber</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"conatct.html\">Contact</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            },
-            ".lead P": {
-              "text-align": "left"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1z",
+          "_name": "header1",
+          "_anchor": "header1-25",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "showArrow": true,
+            "bgImage": "",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": true
           },
           "title": "A little bit about me...",
-          "text": "<br><p>I am Sofia Ortuzar and I am 13 years old. The school I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with competing in Martial Arts tournaments.When I was 10, after watching a video in science class on artificial intelligence, I grew a random interest in wanting to know more, how do they work, how can technology rely on itself so much, how can I make my own versions at home. Ever since then my interest has only grown stronger and stronger knowing that one day my name will be on one of those robots, created, programmed, and designed just the way I want it. Then there's my love for animals.</p><p> I Have loved animals all my life, dogs, hamsters, chinchillas, rabbits, even parrots and if i could I would &nbsp;make animals my everyday job and I would be as happy as can be. I also have a strong passion for Martial Arts. The style of Martial Arts I do is Tae-Kwon-Do, in my opinion it is not only fun, but it trains me in every way, whether it's my hand-eye coordination or even my strategies in a test at school and how to behave and act. My tournaments is what I always look forward to the most, I would usually compete in sparing (fighting), and forms, but eventually I would like to compete in XMA weapons division. This is also a path I wouldn't at all mind doing everyday and living just off that and nothing else.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "text": "I am Sofia Ortuzar and I am 13 years old. The school I attend is Miami Arts Studio, and I am in the Technolgy Production Magnet Strand. Animals are my passion, along with competing in Martial Arts tournaments.When I was 10, after watching a video in science class on artificial intelligence, I grew a random interest in wanting to know more, how do they work, how can technology rely on itself so much, how can I make my own versions at home. Ever since then my interest has only grown stronger and stronger knowing that one day my name will be on one of those robots, created, programmed, and designed just the way I want it. Then there's my love for animals.<br>I Have loved animals all my life, dogs, hamsters, chinchillas, rabbits, even parrots and if i could I would  make animals my everyday job and I would be as happy as can be. I also have a strong passion for Martial Arts. The style of Martial Arts I do is Tae-Kwon-Do, in my opinion it is not only fun, but it trains me in every way, whether it's my hand-eye coordination or even my strategies in a test at school and how to behave and act. My tournaments is what I always look forward to the most, I would usually compete in sparing (fighting), and forms, but eventually I would like to compete in XMA weapons division. This is also a path I wouldn't at all mind doing everyday and living just off that and nothing else.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "features4",
@@ -3157,7 +3153,7 @@
           "_params": {
             "iconsBgColor": "#000000",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600.jpg",
@@ -3191,7 +3187,7 @@
           },
           "title1": "Robotical Engineer",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Robots and their intelligence has always interested me, since I was in third grade.<br>",
+          "caption1": "Robots and their intelligence has always interested me, since I was in third grade, and even now at the age of 13 it is still my main carrer goal to become a robotical engineer.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3207,7 +3203,7 @@
           },
           "title2": "Professional Martial Artist",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being a professional Martial Artist competitor has been a goal of mine for the past 2 years.<br><br>",
+          "caption2": "Being a professional Martial Artist competitor has been a goal of mine for the past 2 years. I am on the competion team, and I usually compete in sparring, forms, and open weapons division.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3223,7 +3219,7 @@
           },
           "title3": "Digital Animator",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Digital animation combines my interest of animation and design.<br>",
+          "caption3": "Digital animation combines my interest of animation and design. The same way cartoons make me smile, I want to make other people smile if I were to make a cartoon or game.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -3239,7 +3235,7 @@
           },
           "title4": "Police Dog Trainer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always had a love for animals and this job will pursue my love for them and helping them even more.<br>",
+          "caption4": "I have always had a love for animals and this job will pursue my love for them and helping them even more. I don't know what i would do if I didn't have a dog around me.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {

@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -1366,6 +1367,7 @@ h6,
   color: #c0a375!important;
 }
 
+
 #ext_menu-1l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1427,18 +1429,12 @@ h6,
 #ext_menu-1l .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-1z .mbr-section-title,
-#msg-box8-1z p {
-  color: #fff;
-}
-#msg-box8-1z .mbr-section-title {
+#header1-25 .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
-#msg-box8-1z .lead P {
+#header1-25 .mbr-section-lead {
   text-align: left;
-}
-#msg-box8-1z .lead {
-  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #features7-1q .card-subtitle {
   color: #bcbcbc;
