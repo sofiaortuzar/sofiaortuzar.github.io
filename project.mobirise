@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofia Ortuzar",
-    "currentPage": "index.html",
+    "currentPage": "Aritst Reproduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3529,82 +3529,72 @@
             "paddingBottom": "4",
             "images": [
               {
-                "tags": "My Recreation Progress",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-peark-earring-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-peark-earring-2000x2000.jpg",
-                "caption": "Original Piece by Artist",
-                "active": false
-              },
-              {
-                "tags": "My Recreation Progress",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000-1.jpg",
                 "caption": "Day 1",
                 "active": false
               },
               {
-                "tags": "My Recreation Progress",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000-1.jpg",
                 "caption": "Day 2",
                 "active": false
               },
               {
-                "tags": "My Recreation Progress",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000-1.jpg",
                 "caption": "Day 3",
                 "active": false
               },
               {
-                "tags": "My Recreation Progress",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000-1.jpg",
                 "caption": "Day 4",
                 "active": false
               },
               {
-                "tags": "Sofia Ortuzar",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000-2.jpg",
                 "caption": "Day 5",
                 "active": false
               },
               {
-                "tags": "Sofia Ortuzar",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-3-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-3.jpg",
                 "caption": "Day 6",
                 "active": false
               },
               {
-                "tags": "Sofia Ortuzar",
+                "tags": "Original Piece by Artist",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-3-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-3.jpg",
                 "caption": "Day 7",
                 "active": true
               }
