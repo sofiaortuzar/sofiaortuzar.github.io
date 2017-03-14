@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofia Ortuzar",
-    "currentPage": "Adobe Photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 77,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -498,6 +498,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-1w",
           "_params": {
             "imageSize": "55",
@@ -544,12 +549,7 @@
           },
           "title": "Adobe Photoshop",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -3519,6 +3519,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -3531,6 +3536,76 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-peark-earring-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-peark-earring-2000x2000.jpg",
                 "caption": "Original Piece by Artist",
+                "active": false
+              },
+              {
+                "tags": "My Recreation Progress",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-1-2000x2000.jpg",
+                "caption": "Day 1",
+                "active": false
+              },
+              {
+                "tags": "My Recreation Progress",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-2-2000x2000.jpg",
+                "caption": "Day 2",
+                "active": false
+              },
+              {
+                "tags": "My Recreation Progress",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-4-2000x2000.jpg",
+                "caption": "Day 3",
+                "active": false
+              },
+              {
+                "tags": "My Recreation Progress",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-5-2000x2000.jpg",
+                "caption": "Day 4",
+                "active": false
+              },
+              {
+                "tags": "Sofia Ortuzar",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-6-2000x2000.jpg",
+                "caption": "Day 5",
+                "active": false
+              },
+              {
+                "tags": "Sofia Ortuzar",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-7-2000x2000-1.jpg",
+                "caption": "Day 6",
+                "active": false
+              },
+              {
+                "tags": "Sofia Ortuzar",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-1.jpg",
+                "caption": "Day 7",
                 "active": true
               }
             ],
@@ -3544,12 +3619,7 @@
           },
           "_anchor": "gallery3-24",
           "articleLayout": false,
-          "allItem": "My Reproduction Progress",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "My Reproduction Progress"
         },
         {
           "_tags": [
