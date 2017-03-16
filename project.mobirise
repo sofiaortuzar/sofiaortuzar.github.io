@@ -3596,7 +3596,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-3-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-8-2000x2000-3.jpg",
                 "caption": "Day 7",
+                "active": false
+              },
+              {
+                "tags": "Original Piece by Artist",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-10-2000x2000.jpg",
+                "caption": "Day 7",
                 "active": true
+              },
+              {
+                "tags": "Original Piece by Artist",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-11-2000x2000.jpg",
+                "caption": "Day 7",
+                "active": false
               }
             ],
             "spacing": "1",
