@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofia Ortuzar",
-    "currentPage": "Aritst Reproduction.html",
+    "currentPage": "Adobe Premire.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 77,
-    "versionPublish": "3.10.8",
-    "path": "file:///C:/Users/Sofia/Desktop",
+    "uniqCompNum": 79,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1140,100 +1140,61 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html\">Itroduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html#features7-1q\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction picture.html#contacts4-1m\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PowerPoint.html\">Powerpoint</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"MIcrosoft Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sofiaortuzar.github.io/Documents/Discuss IT Topic 6 .pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premire.html\" aria-expanded=\"false\">Adobe Premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\" aria-expanded=\"false\">Adobe Illustartor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Photoshop.html\">Industry Certified PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Illustrator.html\">Industry Certified Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Audition.html\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry certified Adobe Premire.html\">Industry Certified Adobe Premire</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP Teacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend.html\">Family friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Memeber.html\">Community Memeber</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"conatct.html\">Contact</a></li>"
         },
         {
-          "_inherit": "gallery1",
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery3",
+          "_name": "header6",
+          "_anchor": "header6-26",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
             "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
           },
-          "_anchor": "gallery3-1c",
-          "articleLayout": false,
-          "allItem": "All"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=7brC5pxX8q0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Rough Draft for...\"What makes me a digital artist\"",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -3606,7 +3567,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-10-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-10-2000x2000.jpg",
                 "caption": "Day 8",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Original Piece by Artist",
@@ -3617,256 +3578,6 @@
                 "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-11-2000x2000.jpg",
                 "caption": "Day 9",
                 "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-14-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-14-2000x2000.jpg",
-                "caption": "Day 10",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-15-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-15-2000x2000.jpg",
-                "caption": "Day 11",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-16-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-16-2000x2000.jpg",
-                "caption": "Day 12",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-17-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-17-2000x2000.jpg",
-                "caption": "Day 13",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-18-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-18-2000x2000.jpg",
-                "caption": "Day 14",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-19-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-19-2000x2000.jpg",
-                "caption": "Day 15",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-20-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-20-2000x2000.jpg",
-                "caption": "Day 16",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-21-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-21-2000x2000.jpg",
-                "caption": "Day 17",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-23-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-23-2000x2000.jpg",
-                "caption": "Day 18",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-24-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-24-2000x2000.jpg",
-                "caption": "Day 19",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-25-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-25-2000x2000.jpg",
-                "caption": "Day 20",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-26-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-26-2000x2000.jpg",
-                "caption": "Day 21",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-27-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-27-2000x2000.jpg",
-                "caption": "Day 22",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-28-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-28-2000x2000.jpg",
-                "caption": "Day 23",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-29-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-29-2000x2000.jpg",
-                "caption": "Day 24",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-31-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-31-2000x2000.jpg",
-                "caption": "Day 25",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-32-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-32-2000x2000.jpg",
-                "caption": "Day 26",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-33-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-33-2000x2000.jpg",
-                "caption": "Day 27",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-34-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-34-2000x2000.jpg",
-                "caption": "Day 28",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-35-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-35-2000x2000.jpg",
-                "caption": "Day 29",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-36-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-36-2000x2000.jpg",
-                "caption": "Day 30",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-37-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-37-2000x2000.jpg",
-                "caption": "Day 31",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-38-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-38-2000x2000.jpg",
-                "caption": "Day 32",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-39-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-39-2000x2000.jpg",
-                "caption": "Day 33",
-                "active": false
-              },
-              {
-                "tags": "Original Piece by Artist",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-40-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sofia-ortuzar-day-40-2000x2000.jpg",
-                "caption": "Day 34",
-                "active": true
               }
             ],
             "spacing": "1",
