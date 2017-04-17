@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sofia Ortuzar",
-    "currentPage": "index.html",
+    "currentPage": "Adobe Premire.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 81,
     "versionPublish": "3.10.8",
     "path": "file:///C:/Users/Sofia/Desktop",
     "screenshot": "screenshot.png"
@@ -331,6 +331,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-26",
           "_params": {
             "imageSize": 50,
@@ -373,12 +378,7 @@
           },
           "title": "What Makes ME a Digital Artist...",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1248,6 +1248,63 @@
             }
           },
           "title": "What Makes ME a Digital Artist...",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-28",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=M-kfPDl2H7k",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Imagine Dragons...<br>\"Believer\"",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },

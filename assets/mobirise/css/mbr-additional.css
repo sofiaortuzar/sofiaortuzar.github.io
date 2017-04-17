@@ -721,6 +721,12 @@ h6,
 #header6-25 .mbr-section-text {
   color: #565656;
 }
+#header6-28 .mbr-section-title {
+  color: #000000;
+}
+#header6-28 .mbr-section-text {
+  color: #565656;
+}
 
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
