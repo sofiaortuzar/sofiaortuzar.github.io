@@ -1361,6 +1361,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-2a",
           "_params": {
             "imageSize": 50,
@@ -1388,7 +1393,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=ddLHOK2Wutk",
+              "src": "https://www.youtube.com/watch?v=BoD2oSXQB1U&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -1400,14 +1405,9 @@
               "size": 250
             }
           },
-          "title": "\"Life of a Dog\"<br>Final Draft",
+          "title": "\"Life of a Dog\"<br>&nbsp; Rough Draft",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
